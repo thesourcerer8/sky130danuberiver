@@ -2,10 +2,13 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
 
-| :exclamation: Important Note            |
-|-----------------------------------------|
+# Skywater 130nm Danube-River Generated Test-Structure Tapeout
 
-## Please fill in your project documentation in this README.md file 
+This is a tapeout of the Libresilicon DanubeRiver, automatically generated test-structures for Sky130:
+https://redmine.libresilicon.com/projects/danube-river/
+
+
+
 
 Refer to [README](docs/source/quickstart.rst) for a quick start of how to use caravel_user_project
 
